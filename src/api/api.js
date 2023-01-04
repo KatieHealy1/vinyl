@@ -1,6 +1,6 @@
 
-const clientId = "fd3853df5fa84767b1fe1956c1e62579"
-const clientSecret = "a7e9fda7f0324ee782d383169a503ecb"
+const clientId = ""
+const clientSecret = ""
 
 
 
